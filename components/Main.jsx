@@ -1,6 +1,6 @@
 import React from 'react';
 import Image from 'next/image';
-import iam from '../public/assets/iam.jpg';
+import iam from '../public/assets/mypic.png';
 import { AiOutlineClose, AiOutlineMail, AiOutlineMenu } from 'react-icons/ai';
 import { FaGithub, FaLinkedinIn } from 'react-icons/fa';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
