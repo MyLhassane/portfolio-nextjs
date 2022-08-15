@@ -8,6 +8,8 @@
 # testing
 /coverage
 
+logo.psd
+
 # next.js
 /.next/
 /out/
