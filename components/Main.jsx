@@ -16,8 +16,8 @@ const Main = () => {
             <Image className="rounded-full" src={iam} alt="My Picture" width="100" height="100" />
           </div>
           <p className='uppercase text-sm tracking-widest text-gray-600 mt-4'>LET&apos;S BUILD SOMETHING TOGETHER</p>
-          <h1 className='py-4 text-gray-700'>Hi, Im hassan <span className='text-[#5651e5]'>Alaoui</span></h1>
-          <h1 className='py-2 text-gray-700'>A Front-End Web Developer</h1>
+          <h1 className='py-4 text-gray-700'>Hi, Im <span className='text-[#5651e5]'>H</span>assan Alaoui</h1>
+          <h1 className='py-2 text-gray-700'>A Front-End Web <span className='text-[#5651e5]'>D</span>eveloper</h1>
           <p>I&apos;m a fron-end web developer spicializing in building (and occasionally designing) exceptionally digital experiences.</p>
           <p>Currently, I&apos;m focused on building responsive front-end web applications while learning back-end technologies.</p>
           <div className='flex items-center justify-between max-w-[330px] m-auto py-4'>
