@@ -92,7 +92,7 @@ const Skills = () => {
                 <Image src="/assets/skills/wordpress.png" width="64px" height="64px" alt="Shopify" />
               </div>
               <div className='flex flex-col items-center justify-center'>
-                <h3>Shopify</h3>
+                <h3>WordPress</h3>
               </div>
             </div>
           </div>
