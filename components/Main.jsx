@@ -12,7 +12,7 @@ const Main = () => {
       {/* Main Container */}
       <div className='max-w-[1240px] w-full h-full mx-auto p-2 flex justify-center items-center'>
         <div>
-          <div className='mt-12'>
+          <div className='mt-12 pt-3 bg-slate-300'>
             <Image className="rounded-full" src={iam} alt="My Picture" width="100" height="100" />
           </div>
           <p className='uppercase text-sm tracking-widest text-gray-600 mt-4'>LET&apos;S BUILD SOMETHING TOGETHER</p>
